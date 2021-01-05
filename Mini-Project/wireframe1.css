@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(213, 243, 81);
+}
+.admin-container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+   
+  
+
+}
+.row{
+    
+    margin: auto;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 80px;
+    width: 100%;
+    background-color: rgb(61, 122, 61);
+    color: black;
+    text-align: right;
+    text-size-adjust: 20px  ;
+ }
